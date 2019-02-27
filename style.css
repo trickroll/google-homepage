@@ -1,0 +1,17 @@
+ul{
+	list-style-type: none;
+	margin, padding: 0;
+}
+
+li{
+	display: inline;
+}
+li:hover{
+	text-decoration: underline;
+}
+
+#function{
+	/*width: 50%;*/
+	margin: auto;
+	text-align: center;
+}
